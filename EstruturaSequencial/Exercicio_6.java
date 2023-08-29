@@ -21,5 +21,6 @@ public class Exercicio_6 {
         System.out.println((a + b) * c / 2);
         System.out.println(Math.pow(b, 2));
         System.out.println(a * b);
+        sc.close();
     }
 }
