@@ -1,4 +1,4 @@
-package Exercicios_Udemy_Java.EstrutuaSequencial;
+package Exercicios_Udemy_Java.EstruturaSequencial;
 import java.util.Scanner;
 
 public class Exercicio_5 {

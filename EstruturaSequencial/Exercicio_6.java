@@ -1,4 +1,4 @@
-package Exercicios_Udemy_Java.EstrutuaSequencial;
+package Exercicios_Udemy_Java.EstruturaSequencial;
 import java.util.Scanner;
 /*
 * a) a área do triângulo retângulo que tem A por base e C por altura.
